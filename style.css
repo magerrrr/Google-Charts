@@ -11,8 +11,18 @@
     overflow: auto;
     background-color: #333333;   
 }
+#chartMargin {
+    width: 33.3%; 
+    height: 600px;
+}
+
+
+#chartCongregations {
+    width: 33.4%; 
+    height: 600px;
+}
 
 #chartSpending {
-    width: 65%; 
+    width: 33.3%; 
     height: 600px;
 }
